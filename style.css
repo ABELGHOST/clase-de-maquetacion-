@@ -1,0 +1,9 @@
+nav{
+    display: flex;
+    justify-content: center;
+    
+}
+nav {
+    list-style: none;
+    gap: 20px;
+}
